@@ -9,16 +9,16 @@ This repository contains structured test cases for the Kantox Cashier System.
 
 ## 📂 Structure
 
-kantox-cashier-system/
-├── features/
-│ ├── cart_management.feature
-│ ├── checkout_totals.feature
-│ ├── green_tea_discount.feature
-│ ├── strawberries_bulk_price.feature
-│ ├── coffee_percentage_discount.feature
-│ ├── invalid_products.feature
-│ └── configuration.feature
-└── README.md
+- kantox-cashier-system/
+  - features/
+    - cart_management.feature
+    - checkout_totals.feature
+    - green_tea_discount.feature
+    - strawberries_bulk_price.feature
+    - coffee_percentage_discount.feature
+    - invalid_products.feature
+    - configuration.feature
+  - README.md
 
 ### Cashier System
 
