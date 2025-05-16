@@ -2,10 +2,11 @@
 
 ## 📌 Overview
 
-This repository contains structured test cases for the Kantox Cashier System.
+This repository contains **Behavior-Driven Development (BDD)** style test cases for the Kantox Cashier System, written in [Gherkin](https://cucumber.io/docs/gherkin/) syntax.
 
-- Tests are written in [Gherkin](https://cucumber.io/docs/gherkin/) format
-- Organized by testing type (Functional, Edge Cases, Negative, etc.)
+- Test scenarios focus on **business rules and expected user behaviors**
+- Organized by **feature and business domain**
+
 
 ## 📂 Structure
 
